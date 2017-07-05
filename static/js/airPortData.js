@@ -237,7 +237,7 @@ export default{
       {code:"FSZ",name:"静冈",eName:"Shizuoka",szm:"JG"},
       {code:"USM",name:"苏梅岛",eName:"KohSamui",szm:"SMD"},
       {code:"SIA",name:"西安",eName:"XiAn",szm:"XA"},
-      {code:"BJS",name:"北京",eName:"BeiJing",szm:"BJ"}
+      // {code:"BJS",name:"北京",eName:"BeiJing",szm:"BJ"}
     ];
     Vue.prototype.$DEFAULTVALUE = [
       {code:"PEK",name:"北京首都",eName:"BeiJing",szm:"BJ"},
